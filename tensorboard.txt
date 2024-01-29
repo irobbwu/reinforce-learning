@@ -1,0 +1,6 @@
+tensorboard --logdir=D:\code\python\reinforcement_learnging\gym_intro\logs --port=53400 --bind_all
+
+tensorboard --logdir=logs --port=53400 --bind_all
+
+# 后台运行
+nohup jupyter notebook &
